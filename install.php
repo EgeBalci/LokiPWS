@@ -1,5 +1,5 @@
 <?php 
-	if(!defined('IN_LOKI')) die("File not found.");
+	//if(!defined('IN_LOKI')) die("File not found.");
 	
 	$Modules_ = array(
 	
