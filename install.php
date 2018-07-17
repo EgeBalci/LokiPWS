@@ -4,7 +4,7 @@
 	$Modules_ = array(
 	
 		array("mysqli_connect", "MySQLi", "apt-get install php5-mysql(i) / yum install php-mysqli"),
-		array("mcrypt_encrypt", "Mcrypt", "apt-get install php5-mcrypt / yum install php-mcrypt"),
+		//array("mcrypt_encrypt", "Mcrypt", "apt-get install php5-mcrypt / yum install php-mcrypt"),
 		//array("sqlite_open", "Sqlite", "apt-get install php5-sqlite / yum install php-sqlite"),
 		array("gd_info", "GD", "apt-get install php5-gd / yum install php-gd"),
 		array("gmp_mul", "GMP", "apt-get install php5-gmp / yum install php-gmp")	
